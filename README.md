@@ -1,6 +1,6 @@
 # KemzoDev-Network
 KemzoDev Network Offical Website. HTML/CSS/JS. Open Source
-
+Website Have Some Of Programming Issues Will Be Fix Very Soon
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
