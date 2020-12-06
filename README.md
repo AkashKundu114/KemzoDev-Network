@@ -1,5 +1,5 @@
 # KemzoDev-Network
-KemzoDev Network Offical Website. HTML/CSS/JS Free to use
+KemzoDev Network Offical Website. HTML/CSS/JS. Open Source
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
