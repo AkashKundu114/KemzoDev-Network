@@ -9,6 +9,9 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 Please make sure to update tests as appropriate.
 
+## CHANGE LOG 
+- Fix Mobile View
+- Remove Some Of Codes (To Fix Errors)
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
 
